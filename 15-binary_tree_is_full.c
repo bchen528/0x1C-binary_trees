@@ -1,6 +1,7 @@
 #include "binary_trees.h"
+
 /**
- * binary_tree_is_full - finds the height of a binary tree
+ * binary_tree_is_full - checks if a binary tree is full
  * @tree: pointer to root node
  * Return: 0 or 1 for if the tree is full or not
  */

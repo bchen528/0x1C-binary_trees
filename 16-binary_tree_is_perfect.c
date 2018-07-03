@@ -22,6 +22,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 	balance = left - right;
 	return (balance);
 }
+
 /**
  * binary_tree_height - finds the height of a binary tree
  * @tree: pointer to root node
