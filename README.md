@@ -1,12 +1,14 @@
 # 0x1C-binary_trees
 
-0. creates a binary tree node
+Binary tree algorithms practice.
 
-1. inserts a node as the left-child of another node
+[0-binary_tree_node.c](0-binary_tree_node.c) - creates a binary tree node
 
-2. inserts a node as the right-child of another node
+[1-binary_tree_insert_left.c](1-binary_tree_insert_left.c) - inserts a node as the left-child of another node
 
-3. deletes an entire binary tree
+[2-binary_tree_insert_right.c](2-binary_tree_insert_right.c) - inserts a node as the right-child of another node
+
+[3-binary_tree_delete.c](3-binary_tree_delete.c) - deletes an entire binary tree
 
 4. checks if a node is a leaf
 
